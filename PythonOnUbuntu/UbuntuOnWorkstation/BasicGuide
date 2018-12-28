@@ -1,0 +1,16 @@
+1.至VMWare官方網站下載WorkStation Player免費版（15.0.2 Player for Windows 64-bit）
+  網址：https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/15_0
+
+2.安裝完畢後,至Ubuntu官方網站下載Ubuntu Desktop(18.04LTS)iSo映像檔
+  網址：https://www.ubuntu.com/#download
+
+3.開啟WorkStation，將UbuntuOS的iso檔掛載，完成建立位於WorkStation上的UbuntuOS
+
+
+
+
+
+
+
+
+
